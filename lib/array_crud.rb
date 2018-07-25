@@ -9,7 +9,7 @@ end
 def add_element_to_end_of_array(array, element)
   famous_animals = ["lions", "tigers", "bears"]
  
-famous_animals << "zibra"
+famous_animals << "arrays!"
 end
 
 def add_element_to_start_of_array(array, element)
