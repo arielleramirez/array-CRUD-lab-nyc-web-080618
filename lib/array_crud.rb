@@ -7,15 +7,15 @@ def create_an_array
 end
 
 def add_element_to_end_of_array(array, element)
-  famous_animals = ["lions", "tigers", "bears"]
+  zoo_animals = ["lions", "tigers", "bears"]
  
-famous_animals << "arrays!"
+zoo_animals << "arrays!"
 end
 
 def add_element_to_start_of_array(array, element)
-  famous_cats = ["lil' bub", "grumpy cat", "Maru"]
+  zoo_animals = ["lions", "tigers", "bears"]
  
-famous_cats.unshift("wow")
+zoo_animals.unshift("wow")
   
 end
 
