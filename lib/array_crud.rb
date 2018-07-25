@@ -22,14 +22,14 @@ end
 def remove_element_from_end_of_array(array)
   zoo_animals = ["lions", "tigers", "bears"]
  
-zoo_animals.pop()
+zoo_animals.pop("arrays!")
   
 end
 
 def remove_element_from_start_of_array(array)
   zoo_animals = ["lions", "tigers", "bears"]
  
-zoo_animals.shift()
+zoo_animals.shift("arrays!")
   
 end
 
