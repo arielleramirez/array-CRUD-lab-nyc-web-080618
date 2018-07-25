@@ -27,7 +27,7 @@ zoo_animals.pop()
 end
 
 def remove_element_from_start_of_array(array)
-  zoo_animals = ["arrays!"]
+  zoo_animals = ["wow"]
  
 zoo_animals.shift()
   
