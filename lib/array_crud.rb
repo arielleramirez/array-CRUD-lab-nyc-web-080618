@@ -7,27 +7,25 @@ def create_an_array
 end
 
 def add_element_to_end_of_array(array, element)
-  zoo_animals = ["lions", "tigers", "bears"]
  
-zoo_animals << "arrays!"
+ 
+array << "arrays!"
 end
 
 def add_element_to_start_of_array(array, element)
-  zoo_animals = ["lions", "tigers", "bears"]
  
-zoo_animals.unshift("wow")
+array.unshift("wow")
   
 end
 
 def remove_element_from_end_of_array(array)
-  zoo_animals = ["arrays!"]
+  
  
-zoo_animals.pop()
+array.pop()
   
 end
 
 def remove_element_from_start_of_array(array)
-  
 array.shift()
   
 end
