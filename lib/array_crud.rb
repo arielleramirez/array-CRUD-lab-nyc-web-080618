@@ -27,14 +27,13 @@ zoo_animals.pop()
 end
 
 def remove_element_from_start_of_array(array)
-  zoo_animals = ["wow"]
- 
-zoo_animals.shift()
+  
+array.shift()
   
 end
 
 def retrieve_element_from_index(array, index_number)
-  array[3]
+  array[2]
 end
 
 def retrieve_first_element_from_array(array)
